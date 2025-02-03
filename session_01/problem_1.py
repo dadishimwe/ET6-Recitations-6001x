@@ -9,7 +9,7 @@ Variables in Python serve as a way to label and store values for later use. For 
 
 x = 10 
 
-Once assigned, you can reference x instead of repeatedly typing the value 5 in your code.
+Once assigned, you can reference x instead of repeatedly typing the value 10 in your code.
 Important Note: In Python, the = symbol is used for assignment, not for checking equality. To test this out, follow the instructions below by replacing the placeholders with your own code.
 
 Instructions
